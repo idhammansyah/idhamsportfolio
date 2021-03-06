@@ -1,0 +1,295 @@
+* {
+	font-family: Arial, Sans-serif, Arial;
+}
+
+h1 {
+	font-size: 25px;
+}
+
+
+.p1 {
+	color: #f0f2f7;
+}
+
+/* Container1*/
+#container1 {
+	background-image: url(../img/);
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	width: : 500px;
+	box-shadow: 1px 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+
+/* Jumbotron */
+.jumbotron {
+	overflow: hidden;
+	background: url(../img/ido.jpg) center center;
+    image-orientation: 50px;
+    height: 100vh;
+    background-size: cover;
+    margin-top: -75px;
+    background-size: cover;
+    text-align: center;
+    font-size: 30px;
+}
+
+.jumbotron:hover {
+    box-shadow: 3px 3px 30px 3px rgba(0, 0, 0, 0.5);
+}
+
+/*card every row*/
+.card1 {
+	border-radius: 10px;
+
+}
+
+.card2 {
+	border-radius: 10px;
+}
+
+.card:hover {
+    box-shadow: 3px 3px 30px 3px rgba(0, 0, 0, 0.5);
+}
+
+/* Button */
+.btn1 {
+	background-color: #6f8ae3;
+}
+.btn1:hover {
+	background-color: #85e6e4 ;
+}
+
+.nav-link:hover::after {
+	background color: #85e6e4 ;
+	content:: '';
+    display: block;
+    border-button: 3px solid white;
+    width: 50%;
+    margin: auto;
+    padding-button: 3px;
+    margin-bottom: -6px;
+}
+
+.nav-link,
+.navbar-brand {
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.5);
+}
+
+/* CV */
+	#colspan{
+		background-color: white;
+		background-position: center center;
+		box-shadow: 0 0 5px;
+		width: 30%;
+		height: 1305px;
+		text-align: justify;
+		float: left;
+		padding: 0 8px;
+		padding-right: 16px;		
+	}
+	#colspan:hover {
+    	box-shadow: 3px 3px 30px 3px rgba(0, 0, 0, 0.5);
+	}
+	.container-padding {
+		box-shadow: 0 0 5px rgba(0,0,0,0.5);
+		width: 70%;
+		height: 700px;
+		background-color: rgb(255, 255, 255);
+		box-sizing: border-box;
+		color: rgb(0, 0, 0);
+		font-family: "Viga", sans-serif;
+		font-size: 15px;
+		line-height: 22.5px;
+		margin-left: 34%;
+		padding-bottom: 0.15px;
+		padding-left: 16px;
+		padding-top: 0.15px;
+	}
+	.container-padding:hover {
+    	box-shadow: 3px 3px 30px 3px rgba(0, 0, 0, 0.5);
+	}
+			
+	.padding { 
+		text-align: left;
+	}
+	.padding-bottom {
+		box-shadow: 0 0 5px;
+		width: 70%;
+		position: bottom;
+		height: 588.2px;
+		background-color: rgb(255, 255, 255);
+		box-sizing: border-box;
+		color: rgb(0, 0, 0);
+		font-family: "Viga", sans-serif;
+		font-size: 15px;
+		line-height: 22.5px;
+		margin-left: 34%;
+		padding-bottom: 0.15px;
+		padding-left: 16px;
+		padding-top: 0.15px;
+		margin-top: 16px;
+	}
+	.padding-bottom:hover {
+    	box-shadow: 3px 3px 30px 3px rgba(0, 0, 0, 0.5);
+	}
+			
+			
+			
+			.load {
+				background-color: rgb(241, 241, 241);
+				border-bottom-left-radius: 16px;
+				border-bottom-right-radius: 16px;
+				border-top-left-radius: 16px;
+				border-top-right-radius: 16px;
+				box-sizing: border-box;
+				color: rgb(0, 0, 0);
+				font-family: "Viga", sans-serif;
+				font-size: 12px;
+				line-height: 18px;
+			}
+			
+			
+			.progress {
+			background-color:  #009688 !important;
+			border-bottom-left-radius: 16px;
+			border-bottom-right-radius: 16px;
+			border-top-left-radius: 16px;
+			border-top-right-radius: 16px;
+			box-sizing: border-box;
+			color: rgb(0, 0, 0);
+			font-family: "Viga", sans-serif;
+			font-size: 12px;
+			line-height: 18px;
+			color:  #ffff !important;
+			text-align: center;
+			}
+			.load2 {
+				background-color: rgb(241, 241, 241);
+				border-bottom-left-radius: 16px;
+				border-bottom-right-radius: 16px;
+				border-top-left-radius: 16px;
+				border-top-right-radius: 16px;
+				box-sizing: border-box;
+				color: rgb(0, 0, 0);
+				font-family: "Viga", sans-serif;
+				font-size: 12px;
+				line-height: 18px;
+			}
+			
+			
+			.progress2 {
+			background-color:  #009688 !important;
+			border-bottom-left-radius: 16px;
+			border-bottom-right-radius: 16px;
+			border-top-left-radius: 16px;
+			border-top-right-radius: 16px;
+			box-sizing: border-box;
+			color: rgb(0, 0, 0);
+			font-family: "Viga", sans-serif;
+			font-size: 12px;
+			line-height: 18px;
+			color:  #ffff !important;
+			text-align: center;
+			}
+			.load3 {
+				background-color: rgb(241, 241, 241);
+				border-bottom-left-radius: 16px;
+				border-bottom-right-radius: 16px;
+				border-top-left-radius: 16px;
+				border-top-right-radius: 16px;
+				box-sizing: border-box;
+				color: rgb(0, 0, 0);
+				line-height: 18px;
+			}
+			.progress3 {
+				background-color: #009688 !important;
+				border-bottom-left-radius: 16px;
+				border-bottom-right-radius: 16px;
+				border-top-left-radius: 16px;
+				border-top-right-radius: 16px;
+				color: #fff !important;
+				font-family: "Viga", sans-serif;
+				text-align: center;
+				line-height: 18px;
+				font-size: 12px;
+
+				
+			}
+			.load4 {
+				background-color: rgb(241, 241, 241);
+				border-bottom-left-radius: 16px;
+				border-bottom-right-radius: 16px;
+				border-top-left-radius: 16px;
+				border-top-right-radius: 16px;
+				box-sizing: border-box;
+				color: rgb(0, 0, 0);
+				line-height: 18px;
+			}
+			.progress4 {
+				background-color: #009688 !important;
+				border-bottom-left-radius: 16px;
+				border-bottom-right-radius: 16px;
+				border-top-left-radius: 16px;
+				border-top-right-radius: 16px;
+				color: #fff !important;
+				text-align: center;
+				font-family: "Viga", sans-serif;
+				line-height: 18px;
+				font-size: 12px;
+			}
+			.content1 { 
+				padding: 14px;
+			}
+			.content2 {
+				padding: 14px;
+			}
+			.content3 {
+				padding: 10px;
+			}
+			.content4 {
+				padding: 16px;
+			}
+			.content5 {
+				padding: 16px;
+			}
+			.content6 {
+				padding: 16px;
+			}
+			img  {
+				size: cover;
+				width: 100%;
+				height: 225.18px;
+				line-height: 1.5px;
+			}
+			
+				
+			h4{
+				color: white;
+				padding: 15px;
+				text-align: left;
+				margin-top: -50px;
+			}
+			i {
+				padding: 5px;
+				color: #009688 !important;
+			}
+			hr {
+				border: -1px solid gray;
+			}
+/* End of CV */
+
+	/* Responsive Website */
+	/* Desktop version*/
+	@media (min-width: 992px) {
+
+	    .nav-link,
+	    .navbar-brand {
+	        color: white !important;
+	        text-shadow: 1px 1px 1px rgba(0, 0, 87, 0.5);
+	    }
+	    .jumbotron {
+        	margin-top: -60px;
+        	height: 515px;
+    	}
+	}
