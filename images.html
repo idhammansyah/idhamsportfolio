@@ -33,7 +33,7 @@
 
 	    		<div class="collapse navbar-collapse" id="navbarText">
 	    			<div class="navbar-nav ml-auto">
-	        			<a class="nav-item nav-link active" href="index.html">Home</a>
+	        			<a class="nav-item nav-link active" href="index.php">Home</a>
 	      				<a class="nav-item nav-link" href="images.html">Images</a>
 	      				<a class="nav-item nav-link" href="introductions.html">About</a>
 	      				<a class="nav-item nav-link"></a>
