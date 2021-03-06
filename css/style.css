@@ -24,7 +24,7 @@ h1 {
 /* Jumbotron */
 .jumbotron {
 	overflow: hidden;
-	background: url(img/panah.jpg) center center;
+	background: url(../img/panah.jpg) center center;
     image-orientation: 50px;
     height: 100vh;
     background-size: cover;
